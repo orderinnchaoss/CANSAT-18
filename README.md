@@ -1,5 +1,5 @@
-# TEAM KALPANA-1 CANSAT-18
-This contains files of Team Kalpana-1 for CANSAT'18 (Schematics,Codes,Libraries,Docs, mechanical team's files aren't included)
+# TEAM KALPANA-1 CANSAT-18(Netaji Subhas Institute of Technolgy, now Netaji Subhas University of Technology)
+This contains files of Team Kalpana-1 for CANSAT'18 (Schematics,Codes,Libraries,Docs, mechanical team's files aren't included).
 
 The material here could be haphazard and redundant,Sorry :(
 Some material here isn't one person's work but of the team Kalpana-1 for CANSAT'18(Specifically the PDR & PFR have been contributed by the whole team, few other material does have contribution here and there,i.e. Schematic and Board Layout)
